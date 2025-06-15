@@ -34,8 +34,12 @@ You can click the Preview link to take a look at your changes.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arafat6462&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat6462&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat6462&layout=compact&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arafat6462&theme=tokyonight" width="49%" />
+  <img src="https://komarev.com/ghpvc/?username=Arafat6462&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Arafat6462?label=Followers&style=flat-square" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Arafat6462?label=Stars&style=flat-square" alt="GitHub Stars" />
 </p>
 
 ---
