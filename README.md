@@ -31,16 +31,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat6462&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat6462&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arafat6462&theme=tokyonight" width="49%" />
-  <img src="https://komarev.com/ghpvc/?username=Arafat6462&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Arafat6462?label=Followers&style=flat-square" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Arafat6462?label=Stars&style=flat-square" alt="GitHub Stars" />
-</p>
 <!-- 📊 GitHub Stats & Activity -->
 <h2 align="center">⚡ GitHub Stats & Activity</h2>
 
@@ -48,14 +38,17 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat6462&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" width="98%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat6462&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arafat6462&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat6462&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Arafat6462&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arafat6462&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="93%" />
-</p>
 
 <hr style="border: 1px solid #444; margin: 40px 0;" />
 
