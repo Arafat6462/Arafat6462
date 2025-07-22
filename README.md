@@ -16,18 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🎓 **Graduated CSE in 2022**, Thesis on **NLP**
 - 🏢 Worked 2+ years at **Smartvoice Ltd** as a Software Engineer
-- 🛠️ Full-stack web & mobile developer (Angular, Laravel, Flutter)
+- 🛠️ Full-stack web & mobile developer (Django, Angular, Laravel, Flutter)
 - 🤖 AI/ML & Computer Vision researcher and practitioner
 - 🧠 Strong foundation in **Competitive Programming** and **DSA**
-
----
-
-### 🛠️ Tech Stack
-
-| 💻 Languages     | 🧰 Tools & Frameworks              | 🧠 AI/ML & CV     |
-|------------------|------------------------------------|------------------|
-| Python, PHP, C++ | Flutter, Angular, Laravel, JS, Node.js | OpenCV, TensorFlow, scikit-learn |
-| SQL, Dart, Bash  | Git, Docker, REST APIs, Firebase   | NLP, Pattern Recognition |
 
 ---
 
@@ -64,11 +55,18 @@ You can click the Preview link to take a look at your changes.
 
 ### 🚀 Featured Projects
 
-<!---
-- 🔍 [**SmartVoice AI Bot**](#) – Voice-based AI assistant with NLP
-- 🧠 [**VisionX**](#) – Real-time object detection using Python & OpenCV
-- 📱 [**FeelingsBox App**](#) – Emotion tracking mobile app (Flutter)
---->
+<div align="center">
+  <a href="https://github.com/Arafat6462/ResuMate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arafat6462&repo=ResuMate&theme=tokyonight&hide_border=true" alt="ResuMate Repository" />
+  </a>
+</div>
+
+**🎯 ResuMate: AI-Powered Resume & Job Management System**
+- 🤖 **Multi-AI Integration**: Google Gemini, DeepSeek R1, OpenAI, Cypher Alpha
+- 🔧 **Tech Stack**: Django REST Framework, PostgreSQL, JWT Auth
+- 🐳 **DevOps**: Docker, GitHub Actions CI/CD, DigitalOcean Deployment
+- 📚 **Documentation**: MkDocs with interactive API exploration
+- 🔗 **Live**: [API Docs](https://arafat2.me/api-docs/) • [Demo](https://arafat2.me)
 
 ---
 
