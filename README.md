@@ -2,7 +2,12 @@
 Arafat6462/Arafat6462 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi, I'm Arafat 👋</h1>
+<h1 align="center">Hi, I'm Arafat 👋
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0097B2&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </div>
+</h1>
+
 <p align="center">
   <strong>Software Engineer • AI/ML Enthusiast • Problem Solver</strong><br>
   <em>Crafting intelligent web, mobile, and AI-powered solutions</em>
@@ -61,7 +66,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-**🎯 ResuMate: AI-Powered Resume & Job Management System**
+**🎯 ResuMate: AI-Powered Resume & Job Management API**
 - 🤖 **Multi-AI Integration**: Google Gemini, DeepSeek R1, OpenAI, Cypher Alpha
 - 🔧 **Tech Stack**: Django REST Framework, PostgreSQL, JWT Auth
 - 🐳 **DevOps**: Docker, GitHub Actions CI/CD, DigitalOcean Deployment
