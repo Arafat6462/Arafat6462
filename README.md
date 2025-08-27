@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 💼 About Me
 
-- 🎓 **Graduated CSE in 2022**, Thesis on **NLP**
+- 🎓 **Graduated CSE in 2023**, Thesis on **NLP**
 - 🏢 Worked 2+ years at **Smartvoice Ltd** as a Software Engineer
 - 🛠️ Full-stack web & mobile developer (Django, Angular, Laravel, Flutter)
 - 🤖 AI/ML & Computer Vision researcher and practitioner
