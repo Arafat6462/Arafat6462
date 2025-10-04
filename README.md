@@ -37,11 +37,11 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arafat6462&theme=tokyonight" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arafat6462&theme=dracula&no-frame=true&no-bg=true" />
     </td>
-    <td>
+    <!-- <td>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arafat6462&theme=tokyonight" />
-    </td>
+    </td> -->
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Arafat6462&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
     </td>
