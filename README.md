@@ -37,7 +37,10 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat6462&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arafat6462&theme=tokyonight" />
+    </td>
+    <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arafat6462&theme=tokyonight" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Arafat6462&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
